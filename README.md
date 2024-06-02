@@ -1,4 +1,4 @@
-# power_bi
+# curso_power_bi
 
 <h2>Resultados finais de projetos e tarefas realizadas no power bi.</h2>
 
