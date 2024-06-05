@@ -8,6 +8,7 @@
 
 <h2>Criação do dashboard:</h2>
 
+<p>O dashboard foi feito com a possibilidade de visualizar as informaçãoes das vendas por período, por categoria, por canal de venda, venda e lucro, e filtragem por continente.</p>
 ![dashboard_power_bi](https://github.com/eugersonmendonca/curso_power_bi/assets/44478573/c31b4cf0-405b-4032-8a87-7b8c65c7752a)
 
 
