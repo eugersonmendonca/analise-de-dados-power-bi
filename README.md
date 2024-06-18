@@ -13,4 +13,6 @@
 ![dashboard_power_bi](https://github.com/eugersonmendonca/curso_power_bi/assets/44478573/c31b4cf0-405b-4032-8a87-7b8c65c7752a)
 
 
+Link para o Dashboado no PowerBI: https://app.powerbi.com/groups/me/reports/e1bfdfd6-8f3e-436c-8595-60d75ca615fa?ctid=e13ad2a9-9987-4e58-98fb-e610c84471d5&pbi_source=linkShare
+
 Dashboard de vendas desenvolvido no power bi atráves do curso na udemy (Master Power BI - De A à Z - Felipe Mafra).
